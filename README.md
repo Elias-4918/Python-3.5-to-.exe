@@ -12,7 +12,8 @@ Use this for whatever you wanr, I dont care.
 
 Im sorry if it sucks but this is written in C++ and I don't know C++. 
 
+I included the source files so you can fix it and do with it what you wish.
 
-Like not at all.
+"Its a feature, not a bug"
 
 enjoy!
